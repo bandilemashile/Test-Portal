@@ -16,8 +16,6 @@ Apk is in zip folder
 
 
 
-Truck is seen moving on the street 
-
 
 
 
@@ -35,79 +33,7 @@ Truck is seen moving on the street
 
 
 
-
-
-Truck is seen moving on the street 
-
-
-
-
-
-
-![Test Image 4](Waste4.JPG)
-
-
-
-
-
-
-![Test Image 3](Waste5.JPG)
-
-
-
-
-
-
-Truck is seen moving on the street 
-
-
-
-
-
-
-![Test Image 4](Waste6.JPG)
-
-
-
-
-
-
-![Test Image 3](Waste7.JPG)
-
-
-
-
-
-
-Truck is seen moving on the street 
-
-
-
-
-
-
-![Test Image 4](Waste8.JPG)
-
-
-
-
-
-
-![Test Image 3](Waste9.JPG)
-
-
-
-
-
-
-Truck is seen moving on the street 
-
-
-
-
-
-
-![Test Image 4](Waste10.JPG)
+![Test Image 3](Waste3.JPG)
 
 
 
