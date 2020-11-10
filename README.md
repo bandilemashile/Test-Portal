@@ -9,7 +9,7 @@ Apk is in zip folder
 
 
 
-![Test Image 3](Waste1.JPG)
+![Test Image 3](Test1.JPG)
 
 
 
@@ -21,19 +21,19 @@ Apk is in zip folder
 
 
 
-![Test Image 4](Waste2.JPG)
+![Test Image 4](Test2.JPG)
 
 
 
 
 
 
-![Test Image 3](Waste3.JPG)
+![Test Image 3](Test3.JPG)
 
 
 
 
-![Test Image 3](Waste3.JPG)
+![Test Image 3](Test4.JPG)
 
 
 
