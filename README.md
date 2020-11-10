@@ -9,7 +9,7 @@ Apk is in zip folder
 
 
 
-![Test Image 3](Test1.JPG)
+![Test Image 3](Waste1.JPG)
 
 
 
@@ -23,14 +23,14 @@ Truck is seen moving on the street
 
 
 
-![Test Image 4](Test2.JPG)
+![Test Image 4](Waste2.JPG)
 
 
 
 
 
 
-![Test Image 3](Test3.JPG)
+![Test Image 3](Waste3.JPG)
 
 
 
@@ -44,4 +44,74 @@ Truck is seen moving on the street
 
 
 
-![Test Image 4](Test4.JPG)
+![Test Image 4](Waste4.JPG)
+
+
+
+
+
+
+![Test Image 3](Waste5.JPG)
+
+
+
+
+
+
+Truck is seen moving on the street 
+
+
+
+
+
+
+![Test Image 4](Waste6.JPG)
+
+
+
+
+
+
+![Test Image 3](Waste7.JPG)
+
+
+
+
+
+
+Truck is seen moving on the street 
+
+
+
+
+
+
+![Test Image 4](Waste8.JPG)
+
+
+
+
+
+
+![Test Image 3](Waste9.JPG)
+
+
+
+
+
+
+Truck is seen moving on the street 
+
+
+
+
+
+
+![Test Image 4](Waste10.JPG)
+
+
+
+
+
+
+
